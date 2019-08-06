@@ -1,2 +1,15 @@
 2019-08-06 12:08:30,627 [Start Help Server] INFO  org.eclipse.jetty.server.Server - jetty-8.1.14.v20131031
 2019-08-06 12:08:30,729 [Start Help Server] INFO  o.e.jetty.server.AbstractConnector - Started SelectChannelConnector@127.0.0.1:65382
+2019-08-06 12:10:22,710 [Worker-6] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Users\mkajamynudeen\Desktop\JWS\JavaGit_Test\ilyTestPack\pom.xml
+2019-08-06 12:10:25,973 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ilyTest:ilyTestPack:0.0.1-SNAPSHOT @ C:\Users\mkajamynudeen\Desktop\JWS\JavaGit_Test\ilyTestPack\pom.xml.
+2019-08-06 12:10:30,728 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ilyTestPack/src/main/java
+2019-08-06 12:10:30,746 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ilyTestPack/src/test/java
+2019-08-06 12:10:30,941 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ilyTest:ilyTestPack:0.0.1-SNAPSHOT @ C:\Users\mkajamynudeen\Desktop\JWS\JavaGit_Test\ilyTestPack\pom.xml.
+2019-08-06 12:10:37,166 [Worker-6] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 14 sec
+2019-08-06 12:10:56,581 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ilyTest:ilyTestPack:0.0.1-SNAPSHOT @ C:\Users\mkajamynudeen\Desktop\JWS\JavaGit_Test\ilyTestPack\pom.xml.
+2019-08-06 12:10:56,857 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-06 12:10:56,858 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mkajamynudeen\Desktop\JWS\JavaGit_Test\ilyTestPack\src\main\resources
+2019-08-06 12:10:56,866 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-06 12:10:56,866 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mkajamynudeen\Desktop\JWS\JavaGit_Test\ilyTestPack\src\test\resources
+2019-08-06 12:15:48,212 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ilyTest:ilyTestPack:0.0.1-SNAPSHOT @ C:\Users\mkajamynudeen\Desktop\JWS\JavaGit_Test\ilyTestPack\pom.xml.
+2019-08-06 12:15:48,602 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
